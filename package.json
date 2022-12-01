@@ -3,6 +3,7 @@
     "gh-pages": "^4.0.0"
   },
   "dependencies": {
+    "build": "^0.1.4",
     "deploy": "^1.0.3"
   }
 }
